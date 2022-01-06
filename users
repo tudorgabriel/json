@@ -1,5 +1,5 @@
 
 
-{ name: 'John' ,
-  id: 2
+{ "name": "John" ,
+  "id": 2
 }
