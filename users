@@ -2,17 +2,6 @@
 [
 { "name": "John" ,
   "id": 1
-},
-{ "name": "Dracula" ,
-  "id": 2
-},
-{ "name": "Ben10" ,
-  "id": 3
-},
-{ "name": "Luxor" ,
-  "id": 4
-},
-{ "name": "Rex" ,
-  "id": 5
 }
+
 ]
