@@ -1,4 +1,10 @@
 {
-  "id": 1,
-  "name": "John"
+  name : 'Tudor' , 
+  id: 1
 }
+
+{
+  name : 'Relu' , 
+  id: 2
+}
+
