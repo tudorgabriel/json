@@ -1,0 +1,40 @@
+[
+{ "Date": "John" ,
+  "Project": "Ilustration & Branding",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours Tracked" : " 8:30"
+}, 
+
+{ "Date": "Ron" ,
+  "Project":"Ilustration & Branding",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours Tracked" : " 8:30"
+},
+{ "Date": "John" ,
+  "Project": "Ilustration & Branding",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours Tracked" : " 8:30"
+},
+{ "Date": "John" ,
+  "Project":"Ilustration & Branding",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours Tracked" : " 8:30"
+},
+{ "Date": "John" ,
+  "Project": "Ilustration & Branding",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours Tracked" : " 8:30"
+},
+{ "Date": "John" ,
+  "Project":"Ilustration & Branding",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours Tracked" : " 8:30"
+},
+
+]
