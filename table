@@ -4,37 +4,6 @@
   "Task" : "Style Guide" , 
   "Person" : "John",
   "Hours" : " 8:30"
-}, 
-
-{ "Date": "02-12-21" ,
-  "Project":"Branding",
-  "Task" : User Guide" , 
-  "Person" : "Tudor",
-  "Hours" : " 8:30"
-},
-{ "Date": "01-12-21" ,
-  "Project": "Ilustration & Branding",
-  "Task" : "Relu" , 
-  "Person" : "John",
-  "Hours" : " 8:30"
-},
-{ "Date": "01-12-21" ,
-  "Project":"Ilustration & Branding",
-  "Task" : "Tex" , 
-  "Person" : "Claire",
-  "Hours" : " 8:30"
-},
-{ "Date": "01-12-21" ,
-  "Project": "Ilustration & Branding",
-  "Task" : "Style Guide" , 
-  "Person" : "John",
-  "Hours" : " 8:30"
-},
-{ "Date": "01-12-21" ,
-  "Project":"Ilustration & Branding",
-  "Task" : "Style Guide" , 
-  "Person" : "Rose",
-  "Hours" : " 8:30"
 }
 
 ]
