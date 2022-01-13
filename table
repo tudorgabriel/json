@@ -7,7 +7,7 @@
 } ,
 
 { "Date": "01-12-21" ,
-  "Project": "Ilustration & Branding",
+  "Project": "Design",
   "Task" : "Style Guide" , 
   "Person" : "Rex",
   "Hours" : " 8:30"
@@ -18,6 +18,45 @@
   "Task" : "Style Guide" , 
   "Person" : "John",
   "Hours" : " 8:30"
+},
+
+{ "Date": "01-12-21" ,
+  "Project": "Marketing",
+  "Task" : "QA" , 
+  "Person" : "John",
+  "Hours" : " 8:30"
+},
+
+{ "Date": "01-12-21" ,
+  "Project": "Development",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours" : " 8:30"
+},
+
+
+{ "Date": "01-12-21" ,
+  "Project": "Ilustration",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours" : " 8:30"
+},
+
+
+{ "Date": "01-12-21" ,
+  "Project": "Ilustration & Branding",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours" : " 8:30"
+},
+
+
+{ "Date": "01-12-21" ,
+  "Project": "Ilustration & Branding",
+  "Task" : "Style Guide" , 
+  "Person" : "John",
+  "Hours" : " 8:30"
 }
+
 
 ]
