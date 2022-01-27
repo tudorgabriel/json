@@ -6,25 +6,25 @@
   "Hours" : " 8:30"
 } , 
 { "Date": "01-12-21" ,
-  "Project": "Ilustration & Branding",
+  "Project": "Test",
   "Task" : "Style Guide" , 
   "Person" : "John",
   "Hours" : " 8:30"
 } , 
 { "Date": "01-12-21" ,
-  "Project": "Ilustration & Branding",
+  "Project": "Ilustration",
   "Task" : "Style Guide" , 
   "Person" : "John",
   "Hours" : " 8:30"
 } , 
 { "Date": "01-12-21" ,
-  "Project": "Ilustration & Branding",
+  "Project": "QA",
   "Task" : "Style Guide" , 
   "Person" : "John",
   "Hours" : " 8:30"
 } , 
 { "Date": "01-12-21" ,
-  "Project": "Ilustration & Branding",
+  "Project": "Dev",
   "Task" : "Style Guide" , 
   "Person" : "John",
   "Hours" : " 8:30"
